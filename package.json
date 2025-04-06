@@ -1,0 +1,18 @@
+{
+  "name": "com.extenject",
+  "version": "9.3.1",
+  "displayName": "Extenject",
+  "description": "Zenject fork - Dependency Injection framework for Unity",
+  "unity": "2023.1",
+  "author": {
+    "name": "Mathijs Bakker",
+    "url": "https://github.com/Mathijs-Bakker/Extenject"
+  },
+  "keywords": [
+    "dependency-injection",
+    "extenject",
+    "zenject",
+    "unity"
+  ],
+  "license": "MIT"
+}
