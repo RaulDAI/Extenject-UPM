@@ -1,29 +1,2 @@
-# Archivos y carpetas innecesarios para un paquete UPM de Unity
-*.csproj
 *.csproj.user
-*.csproj.meta
 *.csproj.user.meta
-*.sln
-*.sln.meta
-*.userprefs
-*.userprefs.meta
-
-# Evitar todos los .meta innecesarios en GitHub
-*.meta
-
-# Archivos de Rider, VS Code, JetBrains y similares
-.idea/
-.vscode/
-*.DotSettings
-*.DotSettings.user
-*.suo
-*.tmp
-
-# Librerías compiladas que no deben trackearse
-*.dll
-*.dll.meta
-*.pdb
-
-# Backups automáticos
-*.bak
-*.backup
