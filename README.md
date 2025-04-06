@@ -8,7 +8,10 @@ Repackaged version of Extenject for installation via GitHub using Unity Package 
 
 1. Open the **Package Manager** (`Window > Package Manager`).
 2. Click **"+" > Add package from git URL**.
-3. Paste this URL: `https://github.com/RaulDAI/Extenject-UPM.git`
+3. Paste this URL:
+```
+https://github.com/RaulDAI/Extenject-UPM.git
+```
 
 ---
 
