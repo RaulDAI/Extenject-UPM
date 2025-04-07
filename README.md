@@ -1,6 +1,8 @@
 # Extenject 9.3.1 – UPM
 
-Repackaged version of Extenject for installation via GitHub using Unity Package Manager (UPM).
+[![✔ Tested on Unity 6](https://img.shields.io/badge/✔%20Tested%20on-Unity%206%20(6000.0.44f1)-brightgreen?logo=unity&style=flat)](https://unity.com/releases/unity-6-releases)
+
+Repackaged version of Extenject for installation via GitHub using Unity Package Manager (UPM). 
 
 ---
 
